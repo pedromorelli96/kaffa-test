@@ -11,4 +11,4 @@ $ python3 cnpj_format.py < arqX.in
 
 ### Screenshot:
 
-![alt text](https://github.com/pedromorelli96/kaffa-test/tree/main/1-Validate_CNPJ_format/run1.png?raw=true)
+![Test run of exercise 1](https://github.com/pedromorelli96/kaffa-test/tree/main/1-Validate_CNPJ_format/run1.png)
